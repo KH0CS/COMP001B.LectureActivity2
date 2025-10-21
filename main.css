@@ -13,5 +13,10 @@ p {
 }
 
 .p {
-    width: 150px;
+    width: 500px;
+}
+
+.p2 {
+  text-align: center;
+  
 }
