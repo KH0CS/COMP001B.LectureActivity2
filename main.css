@@ -3,11 +3,15 @@ h1 {
     padding: 5px;
     margin: 2px;
     margin-top: 20px;
-    margin-right: 65%;
+;
 }
 
 p {
-    background-color: maroon;
+    background-color: lightcoral;
     border: 3px solid black;
     padding: 10px;
+}
+
+.p {
+    width: 150px;
 }
