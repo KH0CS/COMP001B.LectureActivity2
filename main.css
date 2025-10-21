@@ -9,4 +9,5 @@ h1 {
 p {
     background-color: maroon;
     border: 3px solid black;
+    padding: 10px;
 }
